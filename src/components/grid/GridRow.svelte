@@ -119,6 +119,7 @@
     border-bottom: 1px solid #e5e7eb;
     background: white;
     box-shadow: 2px 0 4px rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
   }
 
   .checkbox-cell.frozen {

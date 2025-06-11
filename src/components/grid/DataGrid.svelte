@@ -493,6 +493,7 @@
     background: #f8fafc;
     border-right: 1px solid #e2e8f0;
     box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
   }
 
   .grid-body-container {

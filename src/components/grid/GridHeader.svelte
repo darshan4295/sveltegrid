@@ -127,6 +127,7 @@
     white-space: nowrap;
     overflow: hidden;
     min-height: 40px;
+    box-sizing: border-box;
   }
 
   .grid-header-cell.frozen {

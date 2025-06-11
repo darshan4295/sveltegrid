@@ -80,6 +80,7 @@
     min-height: 36px;
     cursor: pointer;
     transition: background-color 0.2s;
+    box-sizing: border-box;
   }
 
   .grid-cell:hover {
